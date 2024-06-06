@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "7FOGv6hrTscPNWlp3zWBZdgGzVQh+X5DdfIbeQkNS6HE9BB6jmMRhNLTivlfnXqtvRGUaH818djMv+52Pm3v4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Assaf Mrad\\Desktop\\RiderProjects\\ConceptProject\\TestBasedGameCS\\TestBasedGameCS\\TestBasedGameCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.17\\azure.ai.openai.1.0.0-beta.17.nupkg.sha512",
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\azure.core\\1.39.0\\azure.core.1.39.0.nupkg.sha512",
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
